@@ -166,7 +166,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 17,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -716,7 +716,7 @@
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 72,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
